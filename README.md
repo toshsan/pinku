@@ -16,6 +16,7 @@ This static site generator trasforms your template (*.tmpl) files using Jinja 2 
 Simple enough? may be?
 
 todos:
+
 -folder generation with init()
 -Serve destination site with simpleHttpServer
 -Watch for changes
